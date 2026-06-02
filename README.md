@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4ZmRtOHYxMWxsNGxtNmhvdXdzYWxleXZ6OTNkaHBsNmliaDlhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9Wv608vStN6g/giphy.gif" width="120" alt="Goku Pixel">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4ZmRtOHYxMWxsNGxtNmhvdXdzYWxleXZ6OTNkaHBsNmliaDlhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9Wv608vStN6g/giphy.gif" width="120" alt="Goku Pixel](https://www.deviantart.com/jhexusdroid/art/kid-goku-SWL-super-attack-1-advance-995999445)">
   
-  # Hellho there! 👋
+  # Hello there! 👋
 </div>
 
 Sou da área de Engenharia da Computação com foco em Desenvolvimento Back-End e Bancos de Dados. Busco sempre construir soluções bem estruturadas, organizadas e eficientes, focando na qualidade do código e na resolução prática de problemas.
