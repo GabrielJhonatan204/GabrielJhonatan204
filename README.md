@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4ZmRtOHYxMWxsNGxtNmhvdXdzYWxleXZ6OTNkaHBsNmliaDlhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9Wv608vStN6g/giphy.gif" width="120" alt="Goku Pixel](https://www.deviantart.com/jhexusdroid/art/kid-goku-SWL-super-attack-1-advance-995999445)">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4ZmRtOHYxMWxsNGxtNmhvdXdzYWxleXZ6OTNkaHBsNmliaDlhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9Wv608vStN6g/giphy.gif" width="120" alt="Goku Pixel">
   
   # Hello there! 👋
 </div>
@@ -15,6 +15,7 @@ Sou da área de Engenharia da Computação com foco em Desenvolvimento Back-End 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
